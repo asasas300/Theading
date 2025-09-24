@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Theading
 {
-    public partial class Form1 : Form
+    public partial class FrmBasicThread : Form
     {
-        public Form1()
+        public FrmBasicThread()
         {
             InitializeComponent();
         }

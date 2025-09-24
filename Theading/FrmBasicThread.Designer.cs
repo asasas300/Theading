@@ -1,6 +1,6 @@
 ﻿namespace Theading
 {
-    partial class Form1
+    partial class FrmBasicThread
     {
         /// <summary>
         /// Required designer variable.
